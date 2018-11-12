@@ -44,6 +44,7 @@
             // MilesLabel
             // 
             this.MilesLabel.AutoSize = true;
+            this.MilesLabel.ForeColor = System.Drawing.Color.Black;
             this.MilesLabel.Location = new System.Drawing.Point(131, 40);
             this.MilesLabel.Name = "MilesLabel";
             this.MilesLabel.Size = new System.Drawing.Size(33, 13);
@@ -72,6 +73,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.ClientSize = new System.Drawing.Size(496, 293);
             this.Controls.Add(this.ConvertButton);
             this.Controls.Add(this.AnswerLabel);

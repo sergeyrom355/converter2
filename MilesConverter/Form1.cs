@@ -25,9 +25,11 @@ namespace MilesConverter
                 double miles = double.Parse(MilesTextBox.Text);
                 double kilimeters  = miles* MilesCoef;
                 AnswerLabel.Text = miles+ " миль это " + kilimeters + " километров";
+                AnswerLabel.ForeColor = System.Drawing.Color.Black;
             }
             catch (Exception ex)
             {
+                AnswerLabel.ForeColor = System.Drawing.Color.Red;
                 AnswerLabel.Text = ex.Message;
             }
         }
