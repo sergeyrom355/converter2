@@ -30,7 +30,7 @@ namespace MilesConverter
             catch (Exception ex)
             {
                 AnswerLabel.ForeColor = System.Drawing.Color.Red;
-                AnswerLabel.Text = ex.Message;
+                AnswerLabel.Text ="Ошибка: " + ex.Message;
             }
         }
     }
