@@ -1,0 +1,10 @@
+C:\Projects\test\MilesConverter\bin\Debug\MilesConverter.exe.config
+C:\Projects\test\MilesConverter\bin\Debug\MilesConverter.exe
+C:\Projects\test\MilesConverter\bin\Debug\MilesConverter.pdb
+C:\Projects\test\MilesConverter\obj\Debug\MilesConverter.csprojAssemblyReference.cache
+C:\Projects\test\MilesConverter\obj\Debug\MilesConverter.MainWindow.resources
+C:\Projects\test\MilesConverter\obj\Debug\MilesConverter.Properties.Resources.resources
+C:\Projects\test\MilesConverter\obj\Debug\MilesConverter.csproj.GenerateResource.cache
+C:\Projects\test\MilesConverter\obj\Debug\MilesConverter.csproj.CoreCompileInputs.cache
+C:\Projects\test\MilesConverter\obj\Debug\MilesConverter.exe
+C:\Projects\test\MilesConverter\obj\Debug\MilesConverter.pdb
